@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="bc4bce4233dfc2259949c28b559b83bec64f0df7" datatype="html">
+        <source>hi</source>
+        <target>hi</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a079cbe048d3eee20822f5bc6fbcbf576b1586a7" datatype="html">
+        <source>hello</source>
+         <target>hello</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="35976a8a29a2f1577668f9abd4e448e9e6e16acc" datatype="html">
+        <source>go to sleep</source>
+        <target>go to sleepn</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6dfa17ce3d6282fd635aead8f9407b4114ca59b9" datatype="html">
+        <source>come from work</source>
+        <target>come from work</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9a0e86b80a77c75b41f46b908a5b67a5ff4a36bf" datatype="html">
+        <source>traveling</source>
+        <target>traveling</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

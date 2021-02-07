@@ -1,0 +1,25 @@
+<ul>
+    <li><a routerLink="/" routerLinkActive=".active" 
+        [routerLinkActiveOptions]="{ exact : true }" >/</a></li>
+
+    <li><a routerLink="/home" routerLinkActive=".active" >home</a></li>
+    <li><a routerLink="/home/second" routerLinkActive=".active">second</a></li>
+</ul>
+
+<router-outlet></router-outlet>
+
+
+
+
+
+
+
+
+
+<!-- <app-myhome [text_one]="mytext">
+<ng-container>
+ <p>parent : {{ p_p }}</p>
+ <input #p_input type="text" value="">
+ <div class="btn btn-danger" (click)="parent_print(p_input)">parent click</div>
+</ng-container>
+</app-myhome> -->
